@@ -1,0 +1,15 @@
+import streamlit as st
+
+st.set_page_config(page_title="Supper App", layout="wide")
+
+st.title("🚀 Supper App: Sức khỏe & Giải trí")
+
+st.markdown("""
+### 👋 Chào mừng bạn!
+Ứng dụng gồm:
+- Theo dõi sức khỏe
+- 📰 Đọc tin tức
+- 🎮 Giải trí game
+
+Chức năng ở phần sidebar bên trái
+""")
